@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:untitled3/screens/allusers.page.dart';
 import 'package:untitled3/screens/user.add.dart';
 class ControlePage extends StatelessWidget {
   const ControlePage({super.key});
@@ -19,7 +20,7 @@ class ControlePage extends StatelessWidget {
           body: TabBarView(
             children: const [
               AddUserPage(),
-              Center(child: Text('Page2'),),
+              AllUsers(),
               Center(child: Text('Page3'),),
             ],
           ),
