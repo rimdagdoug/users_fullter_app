@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023821863126",
+    "project_id": "users-fire-app-d53cd",
+    "storage_bucket": "users-fire-app-d53cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023821863126:android:2653677340c4790e08d177",
+        "android_client_info": {
+          "package_name": "com.rim.usersapp.users_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKlKtFXRH-bNmw_EKplL3ktY4v582Kkw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
